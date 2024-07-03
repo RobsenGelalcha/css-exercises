@@ -1,0 +1,23 @@
+
+.redlines1,
+.redlines3,
+.redlines5{
+    color:black;
+    background-color: red;
+	
+}
+
+.redlines3{
+    font-weight: bold;
+}
+
+#num-two{
+    font-size: large;
+    color: blue;
+
+}
+
+#num-four{
+    color: black;
+    background-color: green;
+}
